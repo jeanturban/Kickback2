@@ -19,6 +19,7 @@ function ApplicationWindow(title) {
 			title: L('newWindow'),
 			backgroundColor: 'white'
 		}));
+		document.write("Hello World!");
 	});
 
 	return self;
